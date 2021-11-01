@@ -8,16 +8,7 @@
  - 
  
 ## Directories structure
- - .github
-   - ISSUE_TEMPLATE
-     - bug_report.md
-     - feature-request.md
- - bin
-     - jm
- - doc
-   - LICENSE
-   - README.md
- - log
+ - .gith
    - trace.log
    
 ### Execution examples
